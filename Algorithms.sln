@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.MaxInterval.Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.MaximumSubarray", "Algorithms.MaximumSubarray\Algorithms.MaximumSubarray.csproj", "{B4BEB54F-CF20-444B-BEA1-91FA65D4E1C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Trees.BinaryTree", "Algorithms.Trees.BinaryTree\Algorithms.Trees.BinaryTree.csproj", "{13528842-9642-403D-8F2B-EFB9F993E410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.Trees.BinaryTree.ConsoleTest", "Algorithms.Trees.BinaryTree.ConsoleTest\Algorithms.Trees.BinaryTree.ConsoleTest.csproj", "{7EBD42AF-C6C1-412E-80C2-930D2DE0F4E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B4BEB54F-CF20-444B-BEA1-91FA65D4E1C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4BEB54F-CF20-444B-BEA1-91FA65D4E1C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4BEB54F-CF20-444B-BEA1-91FA65D4E1C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13528842-9642-403D-8F2B-EFB9F993E410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13528842-9642-403D-8F2B-EFB9F993E410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13528842-9642-403D-8F2B-EFB9F993E410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13528842-9642-403D-8F2B-EFB9F993E410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBD42AF-C6C1-412E-80C2-930D2DE0F4E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBD42AF-C6C1-412E-80C2-930D2DE0F4E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBD42AF-C6C1-412E-80C2-930D2DE0F4E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBD42AF-C6C1-412E-80C2-930D2DE0F4E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
