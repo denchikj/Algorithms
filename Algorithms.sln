@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinarySearch", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinarySearch.ConsoleTest", "Algorithms.BinarySearch.ConsoleTest\Algorithms.BinarySearch.ConsoleTest.csproj", "{9433B76E-2CCE-427C-A03D-7B720DAAA56A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.ReversingString", "Algorithms.ReversingString\Algorithms.ReversingString.csproj", "{923EAD17-3B03-4DE6-A536-72412092E454}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.ReversingString.ConsoleTest", "Algorithms.ReversingString.ConsoleTest\Algorithms.ReversingString.ConsoleTest.csproj", "{47378FC9-0D7B-496B-958B-1D1D60FBC801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9433B76E-2CCE-427C-A03D-7B720DAAA56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9433B76E-2CCE-427C-A03D-7B720DAAA56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9433B76E-2CCE-427C-A03D-7B720DAAA56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923EAD17-3B03-4DE6-A536-72412092E454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923EAD17-3B03-4DE6-A536-72412092E454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923EAD17-3B03-4DE6-A536-72412092E454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923EAD17-3B03-4DE6-A536-72412092E454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47378FC9-0D7B-496B-958B-1D1D60FBC801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47378FC9-0D7B-496B-958B-1D1D60FBC801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47378FC9-0D7B-496B-958B-1D1D60FBC801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47378FC9-0D7B-496B-958B-1D1D60FBC801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
