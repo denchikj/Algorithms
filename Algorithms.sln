@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.InsertionSort", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.InsertionSort.ConsoleTest", "Algorithms.InsertionSort.ConsoleTest\Algorithms.InsertionSort.ConsoleTest.csproj", "{F2731AD1-51EE-457B-A827-0224225D98AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.MergeSort", "Algorithms.MergeSort\Algorithms.MergeSort.csproj", "{E0380464-C057-4DFC-B106-DF5D664BE8F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.MergeSort.ConsoleTest", "Algorithms.MergeSort.ConsoleTest\Algorithms.MergeSort.ConsoleTest.csproj", "{7A46D234-994F-4765-BEC7-F4C9C402EAE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{F2731AD1-51EE-457B-A827-0224225D98AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2731AD1-51EE-457B-A827-0224225D98AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2731AD1-51EE-457B-A827-0224225D98AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0380464-C057-4DFC-B106-DF5D664BE8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0380464-C057-4DFC-B106-DF5D664BE8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0380464-C057-4DFC-B106-DF5D664BE8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0380464-C057-4DFC-B106-DF5D664BE8F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A46D234-994F-4765-BEC7-F4C9C402EAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A46D234-994F-4765-BEC7-F4C9C402EAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A46D234-994F-4765-BEC7-F4C9C402EAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A46D234-994F-4765-BEC7-F4C9C402EAE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
