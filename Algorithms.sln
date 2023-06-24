@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinarySearch", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BinarySearch.ConsoleTest", "Algorithms.BinarySearch.ConsoleTest\Algorithms.BinarySearch.ConsoleTest.csproj", "{9433B76E-2CCE-427C-A03D-7B720DAAA56A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BubbleSort", "Algorithms.BubbleSort\Algorithms.BubbleSort.csproj", "{6C8F0EC6-80B2-4613-A6FD-A198B93C76F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.BubbleSort.ConsoleTest", "Algorithms.BubbleSort.ConsoleTest\Algorithms.BubbleSort.ConsoleTest.csproj", "{E4262319-1E54-4A1E-B1A0-FE68D1649898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{9433B76E-2CCE-427C-A03D-7B720DAAA56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9433B76E-2CCE-427C-A03D-7B720DAAA56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9433B76E-2CCE-427C-A03D-7B720DAAA56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8F0EC6-80B2-4613-A6FD-A198B93C76F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8F0EC6-80B2-4613-A6FD-A198B93C76F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8F0EC6-80B2-4613-A6FD-A198B93C76F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8F0EC6-80B2-4613-A6FD-A198B93C76F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4262319-1E54-4A1E-B1A0-FE68D1649898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4262319-1E54-4A1E-B1A0-FE68D1649898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4262319-1E54-4A1E-B1A0-FE68D1649898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4262319-1E54-4A1E-B1A0-FE68D1649898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
