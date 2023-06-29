@@ -4,7 +4,7 @@
     {
         static int LengthOfLongestSubstring(string s)
         {
-            if(string.IsNullOrEmpty(s)) return 0;
+            if (string.IsNullOrEmpty(s)) return 0;
 
             var map = new Dictionary<int, int>();
             var maxLen = 0;
@@ -13,7 +13,7 @@
             {
                 if (map.ContainsKey(s[i]) && lastRepeatPos < map[s[i]])
                     lastRepeatPos = map[s[i]];
-                if(maxLen < i - lastRepeatPos)
+                if (maxLen < i - lastRepeatPos)
                     maxLen = i - lastRepeatPos;
                 map[s[i]] = i;
             }
