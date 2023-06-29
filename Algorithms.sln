@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.ZigZagConversion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.LengthOfLongestSubstring", "Algorithms.LengthOfLongestSubstring\Algorithms.LengthOfLongestSubstring.csproj", "{CECA466F-02CE-4E32-BC75-AB998F9AE873}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.MergeKSortedLists", "Algorithms.MergeKSortedLists\Algorithms.MergeKSortedLists.csproj", "{4F6E5F45-9530-4034-8DC1-914C5E432284}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{CECA466F-02CE-4E32-BC75-AB998F9AE873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CECA466F-02CE-4E32-BC75-AB998F9AE873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CECA466F-02CE-4E32-BC75-AB998F9AE873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F6E5F45-9530-4034-8DC1-914C5E432284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F6E5F45-9530-4034-8DC1-914C5E432284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F6E5F45-9530-4034-8DC1-914C5E432284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F6E5F45-9530-4034-8DC1-914C5E432284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
