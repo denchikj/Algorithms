@@ -6,7 +6,7 @@ namespace Algorithms.TextJustification
     {
         static IList<string> FullJustify(string[] words, int maxWidth)
         {
-            List<string> ret = new();
+            List<string> result = new();
             int thisLen = 0, totLen = 0, cnt = 0, start = 0;
             string s;
             StringBuilder sb = new(maxWidth);
@@ -45,7 +45,7 @@ namespace Algorithms.TextJustification
                     }
                     s = sb.ToString(); sb.Clear();
                 }
-                ret.Add(s);
+                result.Add(s);
                 if (!last)
                 {
                     start = i;
@@ -53,7 +53,7 @@ namespace Algorithms.TextJustification
                     totLen = thisLen;
                 }
             }
-            return ret;
+            return result;
         }
         static void Main(string[] args)
         {
@@ -75,7 +75,7 @@ namespace Algorithms.TextJustification
 
             Console.WriteLine("-------------------");
 
-            words = FullJustify(new string[] { "Science", "is", "what", "we", "understand", "well", "enough", "to", "explain", "to", "a", "computer.", "Art", "is", "everything", "else", "we", "do" }, 10);
+            words = FullJustify(new string[] { "Science", "is", "what", "we", "understand", "well", "enough", "to", "explain", "to", "a", "computer.", "Art", "is", "everything", "else", "we", "do" }, 20);
 
             foreach (string item in words)
             {
