@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithms.MergeKSortedList
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.TextJustification", "Algorithms.TextJustification\Algorithms.TextJustification.csproj", "{FD2E733E-7797-458C-90E1-8900325D2403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms.StringToInteger", "Algorithms.StringToInteger\Algorithms.StringToInteger.csproj", "{55BC37CD-2DD6-4B64-BE1A-EEFD5F0575B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{FD2E733E-7797-458C-90E1-8900325D2403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD2E733E-7797-458C-90E1-8900325D2403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD2E733E-7797-458C-90E1-8900325D2403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BC37CD-2DD6-4B64-BE1A-EEFD5F0575B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BC37CD-2DD6-4B64-BE1A-EEFD5F0575B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BC37CD-2DD6-4B64-BE1A-EEFD5F0575B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BC37CD-2DD6-4B64-BE1A-EEFD5F0575B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
